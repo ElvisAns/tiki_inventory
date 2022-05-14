@@ -13,12 +13,8 @@ The project contain two separate folders:
 - The PWA contains an Vue PWA made on top of the Ionic Framework [ionicframework.com/docs/vue/pwa](https://ionicframework.com/docs/vue/pwa)
 
 #Notes 
-To update the tiki web with the current version make sure to run 
 
-```
-git pull https://gitlab.com/tikiwiki/tiki.git master
-```
+The webapp folder is a mirror from https://gitlab.com/tikiwiki/tiki and it is a submodule to enable tracking, explore https://git-scm.com/book/en/v2/Git-Tools-Submodules for more informations and how to make change.
 
-being in the web app folder!
 
 Thank you!
