@@ -13,7 +13,7 @@ If you have npm and nodejs install you can just run
 npm install -g @ionic/vue
 ```
 
-Then, browse to the directory run where you have cloned then run 
+Then, browse to the directory where you have cloned then run 
 
 ```
  npm install
