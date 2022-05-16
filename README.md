@@ -12,6 +12,11 @@ The project contain two separate folders:
 - The Web app folder is for tiki instance and it is the one to be deployed on web server and it will serve as the backend for our PWA
 - The PWA contains an Vue PWA made on top of the Ionic Framework [ionicframework.com/docs/vue/pwa](https://ionicframework.com/docs/vue/pwa)
 
+#Requirements 
+- [Node 16 LTS](https://vuejs.org/guide/quick-start.html#with-build-tools)
+- [Ionic CLI 6](https://ionicframework.com/docs/intro/cli)
+- [VueJS Framework 3](https://vuejs.org/guide/quick-start.html)
+- [Tiki 25](https://doc.tiki.org/Tiki25)
 #Notes 
 
 The webapp folder is a mirror from https://gitlab.com/tikiwiki/tiki and it is a submodule to enable tracking, explore https://git-scm.com/book/en/v2/Git-Tools-Submodules for more informations and how to make change.
